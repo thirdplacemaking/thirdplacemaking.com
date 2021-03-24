@@ -2,6 +2,7 @@
 <html>
 <head>
 	<title>Transformation of Spaces - Third Place Making</title>
+	<meta name=viewport content="width=device-width,initial-scale=1">
 	<style>
 		:root {
 			--dark-gray: #2b2828;
@@ -9,6 +10,7 @@
 		html { 
 			height: 100%;
 			margin: 0;
+			font-size: 18px;
 		}
 		body{
 			font-family: system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
@@ -17,15 +19,18 @@
 			background: rgb(156,189,228);
 			background: linear-gradient(152deg, rgba(156,189,228,1) 0%, rgba(222,124,219,1) 100%);
 			color: var(--dark-gray);
-			font-size: 1em;
+		}
+		.container {
+			width: 100%;
+			padding: 0.5rem;
 		}
 		h1 {
-			font-size: 2.5rem; 
-			margin-top: 4rem;
+			font-size: 2rem;
+			margin-top: 5rem;
 		}
 		p {
 			font-weight: 400;
-			font-size: 1.3em;
+			font-size: 1.1rem;
 		}
 		a {
 			text-decoration: none;	
@@ -34,12 +39,26 @@
 			text-decoration: underline;
 		}
 		footer p{
-			font-size: 1em;
+			font-size: calc(12px + 1vw)
 		}
+
+		@media (min-width: 600px) {
+		  .container {
+		    max-width: 38rem;
+		    margin: auto;
+		  }
+		  h1 {
+		  	font-size: 2.5rem;
+		  }
+		  p {
+		  	font-size: 1.2rem;
+		  }
+		}
+
 	</style>
 </head>
 <body>
-	<div style="margin: auto; padding: 0.5rem; width: 100%; max-width: 38rem">
+	<div class="container">
 
 		<h1>Third Place Making</h1>
 
