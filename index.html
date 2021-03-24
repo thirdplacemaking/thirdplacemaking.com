@@ -19,11 +19,14 @@
 		}
 		.container {
 			width: 100%;
-			padding: 0.5rem;
 		}
 		h1 {
+			border-bottom: 3px solid;
+  			border-image: linear-gradient(150deg, purple, pink) 1;
 			font-size: 2rem;
-			margin-top: 3rem;
+			margin: 3rem 0 1rem 0;
+			box-sizing: border-box;
+			font-weight: normal;
 		}
 		p {
 			font-weight: 400;
@@ -42,7 +45,7 @@
 
 		@media (min-width: 600px) {
 			.container {
-				max-width: 38rem;
+				max-width: 28rem;
 				margin: auto;
 			}
 			h1 {
