@@ -16,5 +16,4 @@ Based in the Greater Geneva area, Third Place Making operates in Europe, thanks 
 
 ---
 
-Greater Geneva (Switzerland, France)
 contact@thirdplacemaking.com
