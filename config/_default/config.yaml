@@ -1,0 +1,13 @@
+title: Third Place Making
+baseURL: /
+languageCode: en
+DefaultContentLanguage: en
+Paginate: 10
+googleAnalytics: ''
+enableRobotsTXT: true
+removePathAccents: true
+pygmentsUseClasses: true
+metaDataFormat: yaml
+disableKinds:
+- taxonomy
+- term

@@ -7,7 +7,7 @@ We collaborate with our partners to design, build and manage places for their co
 Third Place Making operates in Europe, thanks to its ecosystem of qualified actors in the multiple activities that the production of third places involves.
 
 ---
-[site en construiction]
+[site en construction]
 
 Third Place Making est une société spécialisée dans la production de tiers-lieux. 
 
@@ -18,3 +18,31 @@ Third Place Making intervient en Europe, grâce à son écosystème d’acteurs 
 ---
 
 contact@thirdplacemaking.com
+
+---
+
+## Install Dependencies
+
+```sh
+npm install
+```
+
+## Development Server
+
+Tailwind Watcher:
+
+```sh
+npm run dev
+```
+
+Hugo Server, in another tab:
+
+```sh
+hugo server
+```
+
+## Production Build
+
+```sh
+npm run build && hugo --minify
+```

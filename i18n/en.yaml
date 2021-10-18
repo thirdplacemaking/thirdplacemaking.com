@@ -1,0 +1,36 @@
+- id: home
+  translation: "Homepage"
+- id: learn_more
+  translation: "Learn more"
+- id: contact_us
+  translation: "Contact us"
+- id: community
+  translation: "Community"
+- id: illustrations_by
+  translation: "Illustrations by"
+- id: continue_reading
+  translation: "Continue reading"
+- id: work
+  translation: "Work"
+- id: knowledge
+  translation: "Knowledge"
+- id: table_of_contents
+  translation: "Table of contents"
+- id: open_menu
+  translation: "Open menu"
+- id: close_menu
+  translation: "Close menu"
+- id: first_name
+  translation: "First Name"
+- id: last_name
+  translation: "Last Name"
+- id: email_address
+  translation: "Email Address"
+- id: error_404_title
+  translation: "Error 404"
+- id: error_404_subtitle
+  translation: "Page not found"
+- id: error_404_text
+  translation: "The requested URL could not be found on this server. <br>If you typed the URL by hand, please check the spelling and try again."
+- id: error_404_link
+  translation: "Back to the homepage"

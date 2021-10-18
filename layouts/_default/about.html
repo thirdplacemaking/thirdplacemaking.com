@@ -1,0 +1,73 @@
+{{ define "main" }}
+
+<main class="pb-24" role="main">
+  <article>
+    {{ with .Params.header }}
+    {{ partial "hero.html" (dict "hero" . "color" "turquoise" "svg" "cube" ) }}
+    {{- end }}
+    {{ with .Params.purpose }}
+    <section id="purpose" class="container">
+      <div class="mx-auto max-w-lg pt-32 pb-16 text-center">
+        <h2 class="text-4xl mb-8 after:line">{{ .title }}</h2>
+        <div class="font-serif text-lg text-gray-7 leading-relaxed">{{ .text | markdownify }}</div>
+      </div>
+      <!--<figure>
+        <div class="w-full h-[440px] bg-gray-1.25"></div>
+      </figure>-->
+    </section>
+    {{- end }}
+    {{ with .Params.what }}
+    <section id="what" class="container">
+      <div class="mx-auto max-w-lg pt-32 pb-16 text-center">
+        <h2 class="text-4xl mb-8 after:line">{{ .title }}</h2>
+        <p class="font-serif text-lg text-gray-7 leading-relaxed">{{ .text | markdownify }}</p>
+      </div>
+      <ol id="dimensions" class="flex flex-col sm:flex-row flex-wrap -mx-6">
+        {{- range $i, $dimension := .dimensions }}
+        <li class="w-full flex flex-col sm:w-1/2 lg:w-1/4 px-6 mb-12">
+          <h3 class="text-2xl mb-5">{{ $dimension.title }}</h3>
+          <div class="w-full h-64 order-first flex items-center">
+            <svg width="119" height="137"><use xlink:href="#symbol_0{{ add $i 1 }}" xmlns:xlink="http://www.w3.org/1999/xlink"></use></svg>
+          </div>
+          <ul class="list-arrow">
+            {{- range $dimension.list }}
+            <li class="text-lg text-gray-7">{{ . }}</li>
+            {{- end }}
+          </ul>
+        </li>
+        {{- end }}
+      </ol>
+    </section>
+    {{- end }}
+    {{ with .Params.how }}
+    <section id="how" class="container">
+      <div class="mx-auto pt-32 pb-40">
+        <h2 class="text-4xl text-center mb-8 after:line">{{ .title }}</h2>
+        <div class="gap-x-12 sm:col-2 font-serif text-lg text-gray-7 leading-relaxed">{{ .text | markdownify }}</div>
+      </div>
+    </section>
+    {{- end }}
+    {{ with .Params.who }}
+    <section id="who">
+      {{ partial "hero.html" (dict "hero" . "color" "turquoise" "svg" "dots" "heading" "h2" ) }}
+      <div class="container pt-32 pb-16">
+        {{ with .makers }}
+        <ul id="makers" class="list-arrow gap-x-12 sm:col-2 lg:col-3 w-full mb-32">
+          {{- range .list }}
+          <li class="text-lg text-gray-7">{{ . }}</li>
+          {{- end }}
+        </ul>
+        {{- end }}
+        <div class="font-serif text-lg text-gray-7 leading-relaxed gap-x-12 lg:col-2">{{ .text | markdownify }}</div>
+      </div>
+    </section>
+    {{- end }}
+    {{ with .Site.GetPage "/contact" }}
+    <footer class="container text-center mx-auto py-24">
+      <a href="{{ .Permalink | absLangURL }}" class="btn bg-blue-7 hover:bg-blue-9">{{ T "contact_us" }}</a>
+    </footer>
+    {{ end }}
+  </article>
+</main>
+
+{{ end }}

@@ -1,0 +1,87 @@
+{{- $currentPage := . -}}
+<footer id="footer" role="contentinfo" class="bg-gray-11 text-gray-1.5">
+    <div class="container max-w-7xl py-10">
+      <div class="relative flex flex-col md:flex-row -mx-6">
+        <div class="w-1/6 px-6 mb-6">
+          <svg class="logo" width="84" height="84" aria-hidden="true"><use xlink:href="#logo-symbol-white" xmlns:xlink="http://www.w3.org/1999/xlink"></use></svg>
+        </div>
+        <nav role="navigation" class="w-full md:w-5/6 px-6 py-3">
+          <ul class="flex flex-wrap -mx-6">
+            <li class="w-full sm:w-1/2 lg:w-1/4 px-6 mb-6">
+              <span class="text-xs font-medium uppercase tracking-widest">{{ T "work" }}</span>
+              <ul class="">
+                {{- range .Site.Menus.footer1 }}
+                <li class="my-2 {{if or ($currentPage.IsMenuCurrent "footer1" .) ($currentPage.HasMenuCurrent "footer1" .) }} active{{ end }}">
+                  {{- if .Pre -}}
+                  <span class="text-white">{{ .Name }} <span class="text-gray-1.5">{{ .Pre }}</span></span>
+                  {{- else -}}
+                  <a href="{{ .URL | absLangURL }}" class="text-white">{{ .Name }}</a>
+                  {{- end -}}
+                </li>
+                {{- end }}
+              </ul>
+            </li>
+            <li class="w-full sm:w-1/2 lg:w-1/4 px-6 mb-6">
+              {{- with site.GetPage "/about" }}
+              <span class="text-xs font-medium uppercase tracking-widest">{{ .Title }}</span>
+              {{- end }}
+              <ul class="">
+                {{- range .Site.Menus.footer2 }}
+                <li class="my-2 {{if or ($currentPage.IsMenuCurrent "footer2" .) ($currentPage.HasMenuCurrent "footer2" .) }} active{{ end }}">
+                  {{- if .Pre -}}
+                  <span class="text-white">{{ .Name }} <span class="text-gray-1.5">{{ .Pre }}</span></span>
+                  {{- else -}}
+                  <a href="{{ .URL | absLangURL }}" class="text-white">{{ .Name }}</a>
+                  {{- end -}}
+                </li>
+                {{- end }}
+              </ul>
+            </li>
+            <li class="w-full sm:w-1/2 lg:w-1/4 px-6 mb-6">
+              <span class="text-xs font-medium uppercase tracking-widest">{{ T "knowledge" }}</span>
+              <ul class="">
+                {{- range .Site.Menus.footer3 }}
+                <li class="my-2 {{if or ($currentPage.IsMenuCurrent "footer3" .) ($currentPage.HasMenuCurrent "footer3" .) }} active{{ end }}">
+                  {{- if .Pre -}}
+                  <span class="text-white">{{ .Name }} <span class="text-gray-1.5">{{ .Pre }}</span></span>
+                  {{- else -}}
+                  <a href="{{ .URL | absLangURL }}" class="text-white">{{ .Name }}</a>
+                  {{- end -}}
+                </li>
+                {{- end }}
+              </ul>
+            </li>
+            <li class="w-full sm:w-1/2 lg:w-1/4 px-6 mb-6">
+              <span class="text-xs font-medium uppercase tracking-widest">Journal & Newsletter</span>
+              <ul class="">
+                {{- range .Site.Menus.footer4 }}
+                <li class="my-2 {{if or ($currentPage.IsMenuCurrent "footer4" .) ($currentPage.HasMenuCurrent "footer4" .) }} active{{ end }}">
+                  {{- if .Pre -}}
+                  <span class="text-white">{{ .Name }} <span class="text-gray-1.5">{{ .Pre }}</span></span>
+                  {{- else -}}
+                  <a href="{{ .URL | absLangURL }}" class="text-white">{{ .Name }}</a>
+                  {{- end -}}
+                </li>
+                {{- end }}
+              </ul>
+            </li>
+          </ul>
+        </nav>
+        <ul class="flex justify-end space-x-4 md:w-1/6 absolute md:relative top-2 right-0 px-6 py-2">
+          {{- range .Site.Params.social }}
+          <li><a href="{{ .url }}" title="{{ .title }}"><svg width="20" height="20"><use xlink:href="#{{ .title | anchorize }}" xmlns:xlink="http://www.w3.org/1999/xlink"></use></svg></a></li>
+          {{- end }}
+        </ul>
+      </div>
+      <div class="flex space-x-6 text-xs font-medium uppercase tracking-widest border-t-2 border-gray-9 py-8">
+        <p>&copy; {{ now.Format "2006" }} {{ .Site.Title }}</p>
+        <ul class="flex space-x-6">
+          {{- range .Site.Menus.footer }}
+          <li class="{{if or ($currentPage.IsMenuCurrent "footer" .) ($currentPage.HasMenuCurrent "footer" .) }}active{{ end }}">
+            <a href="{{ .URL | absLangURL }}" class="">{{ .Name }}</a>
+          </li>
+          {{- end }}
+        </ul>
+      </div>
+    </div>
+  </footer>

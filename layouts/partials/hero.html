@@ -1,0 +1,17 @@
+<header class="hero relative bg-{{ .color }}-7">
+  <div class="container mx-auto flex flex-col md:flex-row">
+    <div class="w-full md:w-1/2 md:pr-16 py-20">
+      {{- if eq .heading "h2" }}
+      <h2 class="text-4xl max-w-xs text-white mb-8 after:line">{{ .hero.title | markdownify }}</h2>
+      {{- else -}}
+      <h1 class="text-4xl max-w-xs text-white mb-8 after:line">{{ .hero.title | markdownify }}</h1>
+      {{- end }}
+      <p class="text-2xl leading-snug text-{{ .color }}-1.125">{{ .hero.subtitle | markdownify }}</p>
+    </div>
+    <div class="hero__image relative bg-{{ .color }}-1.125 flex items-center justify-center -mx-8 md:mx-0 md:absolute md:left-1/2 md:top-0 right-0 bottom-0 py-20">
+      <figure class="text-{{ .color }}-5 z-20" aria-hidden="true">
+        <svg width="150" height="174"><use xlink:href="#{{ .svg }}" xmlns:xlink="http://www.w3.org/1999/xlink"></use></svg>
+      </figure>
+    </div>
+  </div>
+</header>

@@ -1,0 +1,17 @@
+{{ define "main" }}
+
+<main role="main">
+  <article>
+    <header class="container mx-auto py-20">
+      <h1 class="text-5xl max-w-md mb-8 after:line">{{ .Title | markdownify }}</h1>
+      {{- with .Params.subtitle }}
+      <p class="text-2xl leading-snug text-{{ .color }}-1.125">{{ . | markdownify }}</p>
+      {{- end }}
+    </header>
+    <section class="container mx-auto content pb-32">
+      {{ .Content }}
+    </section>
+  </article>
+</main>
+
+{{ end }}
