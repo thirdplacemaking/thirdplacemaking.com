@@ -44,5 +44,5 @@ hugo server
 ## Production Build
 
 ```sh
-npm run build && hugo --minify
+npm run build && hugo --minify --environment production
 ```
