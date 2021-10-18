@@ -1,0 +1,17 @@
+{{- $translations := $.Site.Home.AllTranslations }}
+{{- if .Page.IsTranslated }}
+  {{- $translations = .Page.AllTranslations }}
+{{- end }}
+<nav id="languages" class="absolute top-28 md:top-unset right-6 md:right-5 z-30">
+  <ul class="flex uppercase text-sm text-gray-5 tracking-widest">
+    {{- range $translations -}}
+    <li class="{{ if eq .Language $.Language }}active text-gray-11{{ end }}">
+      {{- if ne .Language $.Language -}}
+      <a href="{{ .Permalink }}" hreflang="{{ .Language.Lang }}" title="{{ .Language.LanguageName }}" lang="{{ .Language.Lang }}">{{ .Language }}</a>
+      {{- else -}}
+      <span title="{{ .Language.LanguageName }}" lang="{{ .Language.Lang }}">{{ .Language }}</span>
+      {{- end -}}
+    </li>
+    {{- end }}
+  </ul>
+</nav>

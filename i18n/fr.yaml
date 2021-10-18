@@ -1,0 +1,36 @@
+- id: home
+  translation: "Accueil"
+- id: learn_more
+  translation: "En savoir plus"
+- id: contact_us
+  translation: "Contactez nous"
+- id: community
+  translation: "Communauté"
+- id: illustrations_by
+  translation: "Illustrations par"
+- id: continue_reading
+  translation: "Lire la suite"
+- id: work
+  translation: "Work"
+- id: knowledge
+  translation: "Knowledge"
+- id: table_of_contents
+  translation: "Table des matières"
+- id: open_menu
+  translation: "Ouvrir le menu"
+- id: close_menu
+  translation: "Fermer le menu"
+- id: first_name
+  translation: "Prénom"
+- id: last_name
+  translation: "Nom"
+- id: email_address
+  translation: "Adresse email"
+- id: error_404_title
+  translation: "Erreurr 404"
+- id: error_404_subtitle
+  translation: "Page non trouvée"
+- id: error_404_text
+  translation: "L’URL demandée n’a pas pu être trouvée sur ce serveur. <br>Si vous avez tapé l’URL à la main, veuillez vérifier l’orthographe et réessayer."
+- id: error_404_link
+  translation: "Retourner à la page d’accueil"

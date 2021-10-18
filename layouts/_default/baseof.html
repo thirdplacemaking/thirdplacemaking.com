@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ with .Title }}{{ . }} · {{ end }}{{ .Site.Title }}{{ end }}</title>
+  {{- with .Description | default .Summary -}}
+  <meta name="description" content="{{ . }}">
+  {{- end -}}
+  
+  {{ hugo.Generator }}
+  <meta name="robots" content="noindex,nofollow,noarchive">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500&family=IBM+Plex+Serif:ital@0;1&display=swap" rel="stylesheet"> 
+  
+  <link rel="stylesheet" href="{{ .Site.BaseURL }}assets/css/main.css?{{ mul 1000 (time now).Unix }}" />
+
+  {{ if .IsTranslated -}}
+    {{ range .Translations -}}
+    <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" title="{{ .Language.LanguageName }}">
+    {{- end }}
+  {{ end }}
+
+  {{ partial "seo/main.html" . }}
+  {{ partialCached "favicons.html" . }}
+  
+  <link rel="canonical" href="{{ .Permalink }}" /> 
+  {{ partial "seo/alternate.html" . }}
+  {{- if .RSSLink }}
+  <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Title }}" />
+  {{- end }}
+</head>
+<body class="min-h-screen antialiased overflow-x-hidden bg-white text-gray-11" data-kind="{{ .Kind }}" data-type="{{ .Type }}" data-layout="{{ .Layout }}">
+  
+  {{ partialCached "svg.html" . }}
+  {{ partial "header" . }}
+  {{ block "main" . }}
+  {{ end }}
+  {{ partial "footer" . }}
+  
+ 
+  {{ $scriptPath := "js/main.js" }}
+  {{- $scripts := resources.Get $scriptPath | resources.ExecuteAsTemplate $scriptPath . | resources.Minify | resources.Fingerprint "sha512" -}}
+  <script src="{{ $scripts.Permalink }}"></script>
+  
+  <!-- Simple Analytics -->
+  <script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+  <noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt=""/></noscript>
+</body>
+</html>

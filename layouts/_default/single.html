@@ -1,0 +1,28 @@
+{{ define "main" }}
+
+<main role="main">
+  <article>
+    <header class="container mx-auto py-20">
+      <h1 class="text-5xl max-w-md mb-8 after:line">{{ .Title | markdownify }}</h1>
+      {{- with .Params.subtitle }}
+      <p class="text-2xl leading-snug text-{{ .color }}-1.125">{{ . | markdownify }}</p>
+      {{- end }}
+    </header>
+    <div class="container mx-auto relative pb-32">
+      {{- if and (gt .WordCount 400 ) (.Params.toc) }}
+      <aside class="toc w-full md:sticky md:top-20 md:w-1/3 md:float-right md:pl-8 mb-16">
+        <details class="border-t border-b border-gray-2 pb-8" open>
+          <summary class="text-xs font-medium uppercase tracking-widest text-color-5 pt-8"><span class="ml-4">{{ T "table_of_contents" }}</span></summary>
+          <div class="mt-8">{{ .TableOfContents }}</div>
+        </details>
+      </aside>
+      {{- end }}
+      <div class="content w-full md:w-2/3 md:pr-8">
+      {{ .Content }}
+      </div>
+    </div>
+  </article>
+  
+</main>
+
+{{ end }}

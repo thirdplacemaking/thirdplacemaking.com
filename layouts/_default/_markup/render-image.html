@@ -1,0 +1,4 @@
+<figure class="w-full my-12">
+  <img class="w-full h-auto bg-gray-1.125" src="{{ if hasPrefix .Destination "http" }}{{ .Destination }}{{ else }}{{ (resources.Get .Destination).Permalink }}{{ end }}" alt="{{ .Text }}" loading="lazy">
+  {{ with .Title }}<figcaption class="text-base font-sans mt-4 text-color-5">{{ . | markdownify }}</figcaption>{{ end }} 
+</figure>
