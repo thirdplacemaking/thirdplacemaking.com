@@ -9,8 +9,8 @@
 		"email": "contact@thirdplacemaking.com"
 	},
 	"scripts": {
-		"dev": "NODE_ENV=development ./node_modules/tailwindcss/lib/cli.js -i ./assets/css/main.css -o ./static/assets/css/main.css --jit -w",
-		"build": "NODE_ENV=production ./node_modules/tailwindcss/lib/cli.js -i ./assets/css/main.css -o ./static/assets/css/main.css --jit --minify"
+		"dev": "NODE_ENV=development ./node_modules/tailwindcss/lib/cli.js -i ./assets/css/main.css -o ./docs/assets/css/main.css --jit -w",
+		"build": "NODE_ENV=production ./node_modules/tailwindcss/lib/cli.js -i ./assets/css/main.css -o ./docs/assets/css/main.css --jit --minify"
 	},
 	"dependencies": {
 		"tailwindcss": "^2.2.16"
