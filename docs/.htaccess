@@ -1,0 +1,143 @@
+# rewrite rules
+<IfModule mod_rewrite.c>
+
+# enable awesome urls. i.e.:
+# http://yourdomain.com/about-us/team
+RewriteEngine on
+
+# https redirect
+RewriteCond %{HTTP:X-Forwarded-Proto} !https
+RewriteCond %{HTTPS} off
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# force www without ssl
+# RewriteCond %{HTTPS} off
+# RewriteCond %{HTTP_HOST} !^www\..+$ [NC]
+# RewriteCond %{HTTP_HOST} (.+)$ [NC]
+# RewriteRule ^(.*)$ http://www.%1/$1 [R=301,L]
+
+# force www with ssl
+# RewriteCond %{HTTP_HOST} !^www\..+$ [NC]
+# RewriteCond %{HTTP_HOST} (.+)$ [NC]
+# RewriteRule ^(.*)$ https://www.%1/$1 [R=301,L]
+
+# force non-www without ssl
+# RewriteCond %{HTTPS} off
+# RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+# RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
+
+# force non-www with ssl
+# RewriteCond %{HTTPS} on
+# RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+# RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
+
+# redirect www all except subdomains
+# RewriteCond %{HTTP_HOST} !^(.*)\.(.*)\. [NC]
+# RewriteCond %{HTTPS}s ^on(s)|
+# RewriteRule ^ http%1://www.%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+</IfModule>
+
+# pass the Authorization header to PHP
+SetEnvIf Authorization "(.*)" HTTP_AUTHORIZATION=$1
+
+# mod_deflate compression
+SetOutputFilter DEFLATE
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/plain text/html text/xml text/css text/javascript application/json application/x-javascript application/x-httpd-php
+</IfModule>
+# pour les navigateurs incompatibles
+BrowserMatch ^Mozilla/4 gzip-only-text/html
+BrowserMatch ^Mozilla/4\.0[678] no-gzip
+BrowserMatch \bMSIE !no-gzip !gzip-only-text/html
+BrowserMatch \bMSI[E] !no-gzip !gzip-only-text/html
+# ne pas mettre en cache si ces fichiers le sont déjà
+SetEnvIfNoCase Request_URI \.(?:gif|jpe?g|png|webp|avif)$ no-gzip
+# les proxies doivent donner le bon contenu
+Header append Vary User-Agent env=!dont-vary
+
+# associates media types with one or more extensions 
+# to make sure the resources will be served appropriately
+<IfModule mod_expires.c>
+  # Data interchange
+  AddType application/atom+xml                  atom
+  AddType application/json                      json map topojson
+  AddType application/ld+json                   jsonld
+  AddType application/rss+xml                   rss
+  AddType application/geo+json                  geojson
+  AddType application/rdf+xml                   rdf
+  AddType application/xml                       xml
+  # JavaScript
+  AddType text/javascript                       js mjs
+  # Manifest files
+  AddType application/manifest+json             webmanifest
+  AddType application/x-web-app-manifest+json   webapp
+  AddType text/cache-manifest                   appcache
+  # Media files
+  AddType audio/mp4                             f4a f4b m4a
+  AddType audio/ogg                             oga ogg opus
+  AddType image/bmp                             bmp
+  AddType image/svg+xml                         svg svgz
+  AddType image/webp                            webp
+  AddType video/mp4                             f4v f4p m4v mp4
+  AddType video/ogg                             ogv
+  AddType video/webm                            webm
+  AddType image/x-icon                          cur ico
+  # HEIF Images
+  AddType image/heic                            heic
+  AddType image/heif                            heif
+  # HEIF Image Sequence
+  AddType image/heics                           heics
+  AddType image/heifs                           heifs
+  # AVIF Images
+  AddType image/avif                            avif
+  # AVIF Image Sequence
+  AddType image/avis                            avis
+  # WebAssembly
+  AddType application/wasm                      wasm
+  # Web fonts
+  AddType font/woff                             woff
+  AddType font/woff2                            woff2
+  AddType application/vnd.ms-fontobject         eot
+  AddType font/ttf                              ttf
+  AddType font/collection                       ttc
+  AddType font/otf                              otf
+  # Other
+  AddType application/octet-stream              safariextz
+  AddType application/x-bb-appworld             bbaw
+  AddType application/x-chrome-extension        crx
+  AddType application/x-opera-extension         oex
+  AddType application/x-xpinstall               xpi
+  AddType text/calendar                         ics
+  AddType text/markdown                         markdown md
+  AddType text/vcard                            vcard vcf
+  AddType text/vnd.rim.location.xloc            xloc
+  AddType text/vtt                              vtt
+  AddType text/x-component                      htc
+</IfModule>
+
+# browser caching using cache-control headers
+<IfModule mod_headers.c>
+  # one year (31536000) for image files and fonts
+  <FilesMatch ".(ico|jpe?g|png|webp|avif|gif|svg|woff|woff2)$">
+    Header set Cache-Control "max-age=31536000, public"
+  </FilesMatch>
+  # one month (2628000)
+  # one week (604800) 
+  # on year (31536000) for css and js
+  <FilesMatch ".(css|js)$">
+    Header set Cache-Control "max-age=31536000, public"
+  </FilesMatch>
+</IfModule>
+
+# protect the htaccess file
+<Files .htaccess>
+  order allow,deny
+  deny from all
+</Files>
+
+# protection de la lecture des répertoires
+Options -Indexes
+
+# Error 404
+ErrorDocument 404 /404.html
