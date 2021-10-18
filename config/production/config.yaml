@@ -1,0 +1,5 @@
+baseURL: https://thirdplacemaking.github.io/
+enableRobotsTXT: true
+minify: true
+build:
+  writeStats: true

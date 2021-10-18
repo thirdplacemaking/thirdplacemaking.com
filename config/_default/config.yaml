@@ -1,10 +1,9 @@
 title: Third Place Making
-baseURL: https://thirdplacemaking.github.io/
+baseURL: /
 languageCode: en
 DefaultContentLanguage: en
 Paginate: 10
 publishDir: docs
-enableRobotsTXT: true
 removePathAccents: true
 pygmentsUseClasses: true
 metaDataFormat: yaml
