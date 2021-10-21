@@ -1,4 +1,4 @@
-baseURL: https://thirdplacemaking.github.io/
+baseURL: https://thirdplacemaking.com/
 enableRobotsTXT: true
 minify: true
 build:
