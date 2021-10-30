@@ -34,7 +34,7 @@
   <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Title }}" />
   {{- end }}
 </head>
-<body class="min-h-screen antialiased overflow-x-hidden bg-white text-gray-11" data-kind="{{ .Kind }}" data-type="{{ .Type }}" data-layout="{{ .Layout }}">
+<body class="antialiased overflow-x-hidden bg-white text-gray-11" data-kind="{{ .Kind }}" data-type="{{ .Type }}" data-layout="{{ .Layout }}">
   
   {{ partialCached "svg.html" . }}
   {{ partial "header" . }}
