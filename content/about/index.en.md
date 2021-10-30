@@ -44,9 +44,7 @@ who:
   title: "Who we are"
   subtitle: "We are a community of Third Place Makers"
   text: |-
-    The founders of Third Place Making have conducted in-depth research on the functioning, capabilities and impacts of third-places around the world. We did not invent third-places, but we are recognized for our publications and contributions to many emblematic third places and structuring networks – both grassroots and institutional.
-    
-    We are based in Geneva, and virtually everywhere else in the world.
+    The founders of Third Place Making have conducted in-depth research on the functioning, capabilities and impacts of third-places around the world. We did not invent third-places, but we are recognized for our publications and contributions to many emblematic third places and structuring networks – both grassroots and institutional. We are based in Geneva, and virtually everywhere else in the world.
   makers:
     title: "Third Place Makers"
     list:
