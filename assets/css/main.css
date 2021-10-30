@@ -42,6 +42,7 @@ html {
 }
 
 /* Display */
+[hidden], .hidden { display: none }
 .block { display: block }
 
 /* Typography */
@@ -143,7 +144,6 @@ p + p {
 /* Main */
 main {
   position: relative;
-  min-height: calc(100vh - 6.25rem - 20rem);
 }
 
 /* Hero */
