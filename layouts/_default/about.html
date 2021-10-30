@@ -26,7 +26,7 @@
         {{- range $i, $dimension := .dimensions }}
         <li class="w-full flex flex-col sm:w-1/2 lg:w-1/4 px-6 mb-12">
           <h3 class="text-2xl mb-5">{{ $dimension.title }}</h3>
-          <div class="w-full h-64 order-first flex items-center">
+          <div class="w-full h-64 order-first flex items-center justify-center">
             <svg width="119" height="137"><use xlink:href="#symbol_0{{ add $i 1 }}" xmlns:xlink="http://www.w3.org/1999/xlink"></use></svg>
           </div>
           <ul class="list-arrow">
@@ -58,7 +58,7 @@
           {{- end }}
         </ul>
         {{- end }}
-        <div class="font-serif text-lg text-gray-7 leading-relaxed gap-x-12 lg:col-2">{{ .text | markdownify }}</div>
+        <div class="font-serif text-lg text-gray-7 leading-relaxed md:text-center mx-auto" style="max-width: 30rem">{{ .text | markdownify }}</div>
       </div>
     </section>
     {{- end }}
