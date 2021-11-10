@@ -91,7 +91,7 @@ fr:
     footer2:
     - identifier: about
       name: Qui sommes nous
-      url: /about
+      url: /a-propos
       weight: 1
     - identifier: contact
       name: Contact
