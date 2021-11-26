@@ -4,15 +4,50 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: heading
+  label: EN
+- type: document
+  path: content/_index.en.md
+  label: Home
+  match: "**/*"
+- type: document
+  path: content/about/index.en.md
+  label: About
+  match: "**/*"
+- type: document
+  path: content/content/index.en.md
+  label: Contact
+  match: "**/*"
+- type: document
+  path: content/newsletter/index.en.md
+  label: Newsletter
+  match: "**/*"
+- type: document
+  path: content/legal-notice/index.en.md
+  label: Legal notice
+  match: "**/*"
+- type: heading
+  label: FR
 - type: document
   path: content/_index.fr.md
-  label: Homepage FR
+  label: Accueil
   match: "**/*"
-- type: directory
-  path: config/_default/content
-  label: Pages
-  create: all
-  match: "*"
+- type: document
+  path: content/about/index.fr.md
+  label: À propos
+  match: "**/*"
+- type: document
+  path: content/content/index.fr.md
+  label: Contact
+  match: "**/*"
+- type: document
+  path: content/newsletter/index.fr.md
+  label: Newsletter
+  match: "**/*"
+- type: document
+  path: content/legal-notice/index.fr.md
+  label: Mentions légales
+  match: "**/*"
 upload_dir: config/_default/static/uploads
 public_path: "/uploads"
 front_matter_path: ''
