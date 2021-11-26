@@ -38,8 +38,8 @@ sections:
 - type: document
   path: content/legal-notice/index.fr.md
   label: Mentions légales
-upload_dir: config/_default/static/uploads
-public_path: "/uploads"
+upload_dir: assets/media
+public_path: "/docs/media"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
