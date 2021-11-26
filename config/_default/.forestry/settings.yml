@@ -45,11 +45,11 @@ use_front_matter_path: false
 file_template: ":filename:"
 build:
   preview_env:
-  - HUGO_ENV=staging
-  - HUGO_VERSION=0.81.0
-  preview_output_directory: public
+  - HUGO_ENV=production
+  - HUGO_VERSION=0.89.4
+  preview_output_directory: docs
   preview_docker_image: forestryio/hugo:latest
   mount_path: "/srv"
   working_dir: "/srv"
-  instant_preview_command: hugo server -D -E -F --renderToDisk -d public
+  instant_preview_command: hugo server -D -E -F --renderToDisk -d docs
 version: 0.81.0
