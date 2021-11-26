@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e555892d-396f-4a63-8d87-9a5b6ffd2f86/deploy-status)](https://app.netlify.com/sites/thirdplacemaking/deploys)
+
 # Third Place Making
 [site under construction]
 Third Place Making is a company specialised in the production of third places. 
@@ -14,10 +16,6 @@ Third Place Making est une société spécialisée dans la production de tiers-l
 Nous travaillons aux côtés de nos partenaires pour concevoir, construire et gérer des lieux pour leurs communautés. 
 
 Third Place Making intervient en Europe, grâce à son écosystème d’acteurs qualifiés dans les multiples activités qu’implique la production de tiers-lieux.
-
----
-
-contact@thirdplacemaking.com
 
 ---
 
