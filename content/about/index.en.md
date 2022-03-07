@@ -5,7 +5,7 @@ description: Third Place Making Foundation brings together people and communitie
   who work to secure the fundamental rights related to third places worldwide.
 layout: about
 header:
-  title: About
+  title: About Third Place Making
   subtitle: Third Place Making Foundation brings together people and communities who
     work to secure the fundamental rights related to third places worldwide.
 purpose:
