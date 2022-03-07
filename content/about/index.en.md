@@ -15,7 +15,7 @@ purpose:
     to conflicts, problems and issues in societies.
   image: ''
 what:
-  title: What we do
+  title: Our Mission
   text: 'Third Place Making stands as a key partner, offering international expertise
     on third-places. Dedicated to private and public organizations, Third Place Making’s
     offer is designed around four dimensions:'
@@ -48,11 +48,12 @@ how:
 who:
   title: Who we are
   subtitle: We are a community of Third Place Makers
-  text: The founders of Third Place Making have conducted in-depth research on the
-    functioning, capabilities and impacts of third-places around the world. We did
-    not invent third-places, but we are recognized for our publications and contributions
-    to many emblematic third places and structuring networks – both grassroots and
-    institutional. We are based in Geneva, and virtually everywhere else in the world.
+  text: |-
+    We are pioneers in the field of third places and have contributed to many emblematic third places and structuring networks. We are well recognised for conducting influential research on the capacities, functions and impacts of third places around the world. We are also renowned for our public statements and interventions in defence of third places.
+
+    Third Place Making Foundation brings together people and communities who work to secure the fundamental rights related to third places worldwide.
+
+    Based in Geneva, Switzerland, the Foundation embodies the spirit of the International Geneva, to build a safer, more prosperous and more just world.
   makers:
     title: Third Place Makers
     list:
