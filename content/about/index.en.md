@@ -56,23 +56,7 @@ who:
     Based in Geneva, Switzerland, the Foundation embodies the spirit of the International Geneva, to build a safer, more prosperous and more just world.
   makers:
     title: Third Place Makers
-    list:
-    - Architect, Interior designer
-    - Urban planner
-    - Consultant in strategy, innovation, communication
-    - Members of local communities
-    - Real estate developers
-    - Community manager
-    - Documentation specialist
-    - Designer
-    - Marketing manager
-    - Content producer
-    - User Experience designer
-    - Fablab manager
-    - Event specialist
-    - Project manager
-    - Lawyer
-    - "…"
+    list: []
 draft: true
 
 ---
