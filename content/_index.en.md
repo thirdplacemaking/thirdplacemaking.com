@@ -18,6 +18,5 @@ header:
   - text: Contact us
     href: "/contact"
     bg_color: bg-blue-7
-draft: true
 
 ---
