@@ -45,10 +45,8 @@ what:
     - We provide consulting services and advise people and organisations on how to
       create and manage third places.
 how:
-  title: How we work
-  text: |-
-    Our activity is supported by the structuring and orchestration of an international ecosystem of partners involved in the field of third-places. This ecosystem includes entrepreneurs, freelancers, collectives, companies and civil society organizations.
-    We name the members of this ecosystem Third Place Makers. The identification and selection of partners is based on an international scale and includes the full scope of know-how, expertise and operational activities involved in the production of third places.
+  title: ''
+  text: ''
 who:
   title: Who we are
   subtitle: We are a community of Third Place Makers
