@@ -61,6 +61,5 @@ who:
   makers:
     title: Third Place Makers
     list: []
-draft: true
 
 ---
