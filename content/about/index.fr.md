@@ -51,30 +51,18 @@ how:
   text: ''
 who:
   title: Third Place Makers
-  subtitle: Nous sommes une communauté internationale spécialisée dans le domaine
-    des tiers-lieux
+  subtitle: Nous rassemblons une communauté qui agit pour et par les tiers-lieux
   text: |-
-    Nous n’avons pas inventé les tiers-lieux, mais nous sommes reconnus pour nos publications et la contribution à de nombreux tiers-lieux emblématiques et réseaux structurants.
-    Nous avons également mené des recherches approfondies sur les fonctionnements, les capacités et les effets des tiers-lieux dans le monde.
-    Nous sommes actuellement basés à Genève, et potentiellement actifs partout ailleurs.
+    Nous sommes des pionniers dans le domaine des tiers-lieux et nous avons contribué à de nombreux tiers-lieux emblématiques et à des réseaux structurants. Nous avons mené des recherches de référence sur les capacités,
+    le fonctionnement et l’impact des tiers-lieux dans le monde.
+
+    Nous sommes reconnus pour nos prises de position et nos interventions publiques pour la défense des tiers-lieux.
+
+    La Fondation Third Place Making rassemble les personnes et les communautés qui agissent pour les droits fondamentaux liés aux tiers-lieux dans le monde entier.
+
+    Basée à Genève, en Suisse, la Fondation s’inscrit dans l’esprit de la Genève Internationale, pour construire un monde plus sûr, plus prospère et plus juste.
   makers:
-    title: Third Place Makers
-    list:
-    - Architecte, Architecte d’intérieur
-    - Urbaniste
-    - Consultant en stratégie, innovation, communication
-    - Membres de communautés locales
-    - Promoteurs immobiliers
-    - Community manager
-    - Spécialiste documentation
-    - Designer
-    - Marketing manager
-    - Content producer
-    - User Experience designer
-    - Fablab manager
-    - Spécialiste événementiel
-    - Project manager
-    - Juriste
-    - "…"
+    title: ''
+    list: []
 
 ---
