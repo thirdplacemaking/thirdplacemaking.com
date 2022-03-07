@@ -59,7 +59,7 @@ how:
 who:
   title: Rejoignez la communauté des Third Place Makers
   subtitle: Nous rassemblons une communauté de personnes et d’organisations qui créent
-    et soutiennent des tiers-lieux
+    et soutiennent des tiers-lieux dans le monde.
   text: ''
   makers:
     title: ''
