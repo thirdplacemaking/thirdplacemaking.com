@@ -40,11 +40,12 @@ what:
     - |-
       Nous avons des protocoles de sécurité et constituons des réserves financières pour assurer la sécurité de notre communauté lorsque nous travaillons sur des situations
       critiques.
-  - title: Training
+  - title: Prestations de service
     list:
-    - Formations
-    - Webinaires
-    - Conférences
+    - Nous sensibilisons aux dimensions et aux opportunités stratégiques qu’offrent
+      les tiers-lieux au travers de conférences, masterclass et programme de formation.
+    - Nous offrons des services de conseil et nous accompagnons des personnes et des
+      organisations à créer et à déployer des tiers-lieux.
 how:
   title: Comment nous travaillons
   text: |-
