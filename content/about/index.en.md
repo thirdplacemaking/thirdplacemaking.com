@@ -16,16 +16,17 @@ purpose:
     Our mission is to strengthen the role of third places around the world by recognising, empowering and supporting the people, organisations, knowledge and tools that constitute third places and their communities.
   image: ''
 what:
-  title: Our Mission
+  title: What we do
   text: 'Third Place Making stands as a key partner, offering international expertise
     on third-places. Dedicated to private and public organizations, Third Place Making’s
     offer is designed around four dimensions:'
   dimensions:
-  - title: Research & Insights
+  - title: Project Developement
     list:
-    - Studies, reports, recommendations
-    - Market test
-    - Production and publication of editorial content
+    - We work with partners to design, fund and implement projects involving third
+      places, all over the world.
+    - We support projects that address social issues by contributing to the empowerment
+      of communities, through third places.
   - title: Production
     list:
     - 'Support & Consulting: Design, Prefiguration, Building, Operating, Management
