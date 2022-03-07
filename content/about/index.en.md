@@ -55,8 +55,9 @@ how:
     worldwide.\n\nBased in Geneva, Switzerland, the Foundation embodies the spirit
     of the International Geneva, to build a safer, more prosperous and more just world."
 who:
-  title: Who we are
-  subtitle: We are a community of Third Place Makers
+  title: Become a Third Place Maker
+  subtitle: We bring together a community of people and organisations who create and
+    support third places
   text: ''
   makers:
     title: Third Place Makers
