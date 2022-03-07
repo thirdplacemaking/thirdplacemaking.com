@@ -45,17 +45,19 @@ what:
     - We provide consulting services and advise people and organisations on how to
       create and manage third places.
 how:
-  title: ''
-  text: ''
+  title: Who we are
+  text: "We are pioneers in the field of third places and have contributed to many
+    emblematic third places and structuring networks. We are well recognised for conducting
+    influential research on the capacities, functions and impacts of third places
+    around the world. \n\nWe are also renowned for our public statements and interventions
+    in defence of third places.\n\nThird Place Making Foundation brings together people
+    and communities who work to secure the fundamental rights related to third places
+    worldwide.\n\nBased in Geneva, Switzerland, the Foundation embodies the spirit
+    of the International Geneva, to build a safer, more prosperous and more just world."
 who:
   title: Who we are
   subtitle: We are a community of Third Place Makers
-  text: |-
-    We are pioneers in the field of third places and have contributed to many emblematic third places and structuring networks. We are well recognised for conducting influential research on the capacities, functions and impacts of third places around the world. We are also renowned for our public statements and interventions in defence of third places.
-
-    Third Place Making Foundation brings together people and communities who work to secure the fundamental rights related to third places worldwide.
-
-    Based in Geneva, Switzerland, the Foundation embodies the spirit of the International Geneva, to build a safer, more prosperous and more just world.
+  text: ''
   makers:
     title: Third Place Makers
     list: []
