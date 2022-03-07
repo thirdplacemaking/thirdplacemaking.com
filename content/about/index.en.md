@@ -9,10 +9,11 @@ header:
   subtitle: Third Place Making Foundation brings together people and communities who
     work to secure the fundamental rights related to third places worldwide.
 purpose:
-  title: Our Vision
-  text: We ensure that every person and community in the world has the capacity to
-    access, create or maintain a third place to meet, to exchange and to shape responses
-    to conflicts, problems and issues in societies.
+  title: Purpose
+  text: |-
+    We ensure that every person and community in the world has the capacity to access, create or maintain a third place to meet, to exchange and to shape responses to conflicts, problems and issues in societies.
+
+    Our mission is to strengthen the role of third places around the world by recognising, empowering and supporting the people, organisations, knowledge and tools that constitute third places and their communities.
   image: ''
 what:
   title: Our Mission
