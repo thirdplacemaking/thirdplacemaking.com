@@ -57,7 +57,7 @@ how:
 
     Basée à Genève, en Suisse, la Fondation s’inscrit dans l’esprit de la Genève Internationale, pour construire un monde plus sûr, plus prospère et plus juste.
 who:
-  title: Faites partie de la communauté des Third Place Makers
+  title: Rejoignez la communauté des Third Place Makers
   subtitle: Nous rassemblons une communauté de personnes et d’organisations qui créent
     et soutiennent des tiers-lieux
   text: ''
