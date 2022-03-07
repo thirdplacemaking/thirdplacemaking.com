@@ -27,11 +27,12 @@ what:
       places, all over the world.
     - We support projects that address social issues by contributing to the empowerment
       of communities, through third places.
-  - title: Production
+  - title: Advocacy & Knowledge
     list:
-    - 'Support & Consulting: Design, Prefiguration, Building, Operating, Management
-      of third-places'
-    - Partners scouting
+    - We advocate for and defend those who participate in third places and create
+      a purposeful discourse in the international public debate.
+    - We create and promote premium content, and we contribute to scientific research
+      on the field of third places.
   - title: Lab
     list:
     - Pilots third-places
