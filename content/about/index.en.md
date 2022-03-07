@@ -39,11 +39,12 @@ what:
       the people and communities that come into contact with the foundation.
     - We implement safety protocols and financial funds to ensure the security of
       our community when we work on critical situations.
-  - title: Training
+  - title: Commercial Services
     list:
-    - Internal training
-    - Webinars
-    - Conferences
+    - We raise awareness about the opportunities and strategic considerations of third
+      places through conferences, masterclasses and training programs.
+    - We provide consulting services and advise people and organisations on how to
+      create and manage third places.
 how:
   title: How we work
   text: |-
