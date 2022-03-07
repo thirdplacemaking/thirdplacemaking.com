@@ -9,10 +9,10 @@ header:
   subtitle: Third Place Making Foundation brings together people and communities who
     work to secure the fundamental rights related to third places worldwide.
 purpose:
-  title: Purpose
-  text: |-
-    The concept of the third place has been coined to highlight the importance of sociability places in human societies.
-    Today and all over the world, organizations are envisioning third places as a strategic opportunity for their activities.
+  title: Our Vision
+  text: We ensure that every person and community in the world has the capacity to
+    access, create or maintain a third place to meet, to exchange and to shape responses
+    to conflicts, problems and issues in societies.
   image: ''
 what:
   title: What we do
