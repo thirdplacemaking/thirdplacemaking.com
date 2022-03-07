@@ -33,11 +33,12 @@ what:
       a purposeful discourse in the international public debate.
     - We create and promote premium content, and we contribute to scientific research
       on the field of third places.
-  - title: Lab
+  - title: Community Care
     list:
-    - Pilots third-places
-    - Action-research
-    - Service design
+    - We develop processes dedicated to welcoming, sharing information and supporting
+      the people and communities that come into contact with the foundation.
+    - We implement safety protocols and financial funds to ensure the security of
+      our community when we work on critical situations.
   - title: Training
     list:
     - Internal training
