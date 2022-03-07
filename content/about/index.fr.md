@@ -47,10 +47,8 @@ what:
     - Nous offrons des services de conseil et nous accompagnons des personnes et des
       organisations à créer et à déployer des tiers-lieux.
 how:
-  title: Comment nous travaillons
-  text: |-
-    Notre activité s’appuie sur la structuration et l’orchestration d’un écosystème international de partenaires impliqués dans le domaine des tiers-lieux. Cet  écosystème comprend des entrepreneurs, <span lang='en'>freelances</span>, collectifs, entreprises et organisations issues de la société civile.
-    Nous appelons les membres de cet écosystème, des <span lang='en'>Third Place Makers</span>. L’identification et la sélection des partenaires s’effectue à l’échelle internationale et s’axe sur l’ensemble des savoir-faire, des expertises et des activités opérationnelles qu’implique la conception, la réalisation et la gestion des tiers-lieux.
+  title: ''
+  text: ''
 who:
   title: Third Place Makers
   subtitle: Nous sommes une communauté internationale spécialisée dans le domaine
