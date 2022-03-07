@@ -15,16 +15,16 @@ purpose:
 
     Notre mission est de renforcer le rôle des tiers-lieux dans le monde en reconnaissant, en défendant et en soutenant les personnes, les organisations, les connaissances et les outils qui constituent les tiers lieux et leurs communautés.
 what:
-  title: 'Notre offre '
-  text: "<span lang='en'>Third Place Making</span> se positionne comme un partenaire
-    de référence en offrant une expertise internationale sur les tiers-lieux. Dédiée
-    aux organisations privées et publiques,  l’offre de Third Place Making se structure
-    autour de quatre dimensions :"
+  title: Nos activités
+  text: 'La Fondation Third Place Making travaille avec des partenaires du monde entier
+    pour renforcer les tiers-lieux au travers de quatre domaines d''intervention :'
   dimensions:
-  - title: Research & Insights
+  - title: Développement de projets
     list:
-    - Études, rapports, recommandations
-    - Production et diffusion de contenu éditorial
+    - Nous travaillons avec nos partenaires pour concevoir, financer et mettre en
+      œuvre des projets impliquant des tiers-lieux, partout dans le monde.
+    - Nous soutenons des projets qui répondent à des enjeux de société en contribuant
+      à l’autonomisation des communautés, au travers de leurs tiers-lieux.
   - title: Expérimentation
     list:
     - Test marché
