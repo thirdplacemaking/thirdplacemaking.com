@@ -53,8 +53,7 @@ who:
   title: Third Place Makers
   subtitle: Nous rassemblons une communauté qui agit pour et par les tiers-lieux
   text: |-
-    Nous sommes des pionniers dans le domaine des tiers-lieux et nous avons contribué à de nombreux tiers-lieux emblématiques et à des réseaux structurants. Nous avons mené des recherches de référence sur les capacités,
-    le fonctionnement et l’impact des tiers-lieux dans le monde.
+    Nous sommes des pionniers dans le domaine des tiers-lieux et nous avons contribué à de nombreux tiers-lieux emblématiques et à des réseaux structurants. Nous avons mené des recherches de référence sur les capacités, le fonctionnement et l’impact des tiers-lieux dans le monde.
 
     Nous sommes reconnus pour nos prises de position et nos interventions publiques pour la défense des tiers-lieux.
 
