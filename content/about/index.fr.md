@@ -9,9 +9,11 @@ header:
     lieux dans le monde entier.
 purpose:
   title: Perspectives
-  text: Ce concept a été pensé pour illustrer l’importance des lieux de sociabilité
-    dans les sociétés humaines. Aujourd’hui et partout dans le monde, des organisations
-    envisagent les tiers-lieux comme une opportunité stratégique pour leurs activités.
+  text: |-
+    Nous nous engageons pour que chaque personne et chaque communauté partout dans le monde puisse accéder, créer ou préserver un tiers-lieu afin de se réunir,
+    d’échanger et de façonner des réponses aux conflits, aux problèmes et aux enjeux de société.
+
+    Notre mission est de renforcer le rôle des tiers-lieux dans le monde en reconnaissant, en défendant et en soutenant les personnes, les organisations, les connaissances et les outils qui constituent les tiers lieux et leurs communautés.
 what:
   title: 'Notre offre '
   text: "<span lang='en'>Third Place Making</span> se positionne comme un partenaire
