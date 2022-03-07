@@ -55,8 +55,7 @@ who:
   text: |-
     Nous sommes des pionniers dans le domaine des tiers-lieux et nous avons contribué à de nombreux tiers-lieux emblématiques et à des réseaux structurants. Nous avons mené des recherches de référence sur les capacités, le fonctionnement et l’impact des tiers-lieux dans le monde.
 
-    Nous sommes reconnus pour nos prises de position et nos interventions publiques pour la défense des
-    tiers lieux.
+    Nous sommes reconnus pour nos prises de position et nos interventions publiques pour la défense des tiers lieux.
 
     La Fondation Third Place Making rassemble les personnes et les communautés qui agissent pour les droits fondamentaux liés aux tiers-lieux dans le monde entier.
 
