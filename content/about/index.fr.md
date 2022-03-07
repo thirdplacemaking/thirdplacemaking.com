@@ -47,8 +47,15 @@ what:
     - Nous offrons des services de conseil et nous accompagnons des personnes et des
       organisations à créer et à déployer des tiers-lieux.
 how:
-  title: ''
-  text: ''
+  title: Qui nous sommes
+  text: |-
+    Nous sommes des pionniers dans le domaine des tiers-lieux et nous avons contribué à de nombreux tiers-lieux emblématiques et à des réseaux structurants. Nous avons mené des recherches de référence sur les capacités, le fonctionnement et l’impact des tiers-lieux dans le monde.
+
+    Nous sommes reconnus pour nos prises de position et nos interventions publiques pour la défense des tiers lieux.
+
+    La Fondation Third Place Making rassemble les personnes et les communautés qui agissent pour les droits fondamentaux liés aux tiers-lieux dans le monde entier.
+
+    Basée à Genève, en Suisse, la Fondation s’inscrit dans l’esprit de la Genève Internationale, pour construire un monde plus sûr, plus prospère et plus juste.
 who:
   title: Faites partie de la communauté des Third Place Makers
   subtitle: Nous rassemblons une communauté de personnes et d’organisations qui créent
