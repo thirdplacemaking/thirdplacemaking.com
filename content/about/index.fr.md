@@ -25,12 +25,13 @@ what:
       œuvre des projets impliquant des tiers-lieux, partout dans le monde.
     - Nous soutenons des projets qui répondent à des enjeux de société en contribuant
       à l’autonomisation des communautés, au travers de leurs tiers-lieux.
-  - title: Expérimentation
+  - title: Plaidoyer & Connaissances
     list:
-    - Test marché
-    - Tiers-lieux pilotes
-    - Recherche-action
-    - Design de service
+    - Nous plaidons pour et défendons ceux qui participent aux tiers-lieux et nous
+      portons à l’international un discours engagé dans le débat public.
+    - |-
+      Nous contribuons à la recherche scientifique dans le domaine des tiers-lieux et créons et diffusons du
+      contenu pour les communautés.
   - title: Production
     list:
     - 'Support & Consulting : Design, Préfiguration, Construction, Exploitation, Gestion
