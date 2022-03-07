@@ -32,11 +32,14 @@ what:
     - |-
       Nous contribuons à la recherche scientifique dans le domaine des tiers-lieux et créons et diffusons du
       contenu pour les communautés.
-  - title: Production
+  - title: Community Care
     list:
-    - 'Support & Consulting : Design, Préfiguration, Construction, Exploitation, Gestion
-      de tiers-lieux'
-    - Recherche de partenaires
+    - Nous développons des processus dédiés à l’accueil, au partage d’information
+      et au soutien des personnes et des communautés qui entrent en contact avec la
+      fondation.
+    - |-
+      Nous avons des protocoles de sécurité et constituons des réserves financières pour assurer la sécurité de notre communauté lorsque nous travaillons sur des situations
+      critiques.
   - title: Training
     list:
     - Formations
