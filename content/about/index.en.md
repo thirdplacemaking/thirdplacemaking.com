@@ -17,9 +17,8 @@ purpose:
   image: ''
 what:
   title: What we do
-  text: 'Third Place Making stands as a key partner, offering international expertise
-    on third-places. Dedicated to private and public organizations, Third Place Making’s
-    offer is designed around four dimensions:'
+  text: 'Third Place Making Foundation works with partners worldwide to strengthen
+    third places through four areas of focus:'
   dimensions:
   - title: Project Developement
     list:
