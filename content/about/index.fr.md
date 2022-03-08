@@ -5,8 +5,8 @@ description: Nous sommes une organisation engagée pour refaire le monde en tier
 layout: about
 header:
   title: À propos
-  subtitle: La Fondation Third Place Making s'engage à renforcer le rôle des tiers
-    lieux dans le monde entier.
+  subtitle: La Fondation Third Place Making s'engage à renforcer le rôle des tiers-lieux
+    dans le monde entier.
 purpose:
   title: Perspectives
   text: |-
