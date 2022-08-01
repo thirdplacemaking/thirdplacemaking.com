@@ -9,7 +9,7 @@ Third Place Making désigne une personne morale de droit privé de type fondatio
 
 Les personnes en question sont : Antoine Burret, Émilie Vez, Connie & Benjamin Chow-Petit et Benjamin Gentils. Vous pouvez nous joindre par contact@thirdplacemaking.com.
 
-Thirdplacemaking.com Point de contact : Antoine BURRET Téléphone : (Suisse) +4122-552-00-99 Pour nous contacter : contact@thirdplacemaking.com Hébergeur de thirdplacemaking.com : INFOMANIAK NETWORK SA. Rue Eugène-Marziano 25. 1227 Les Acacias +41 844551155
+thirdplacemaking.com Point de contact : Antoine BURRET Téléphone : (Suisse) +4122-552-00-99 Pour nous contacter : contact@thirdplacemaking.com Hébergeur de thirdplacemaking.com : INFOMANIAK NETWORK SA. Rue Eugène-Marziano 25. 1227 Les Acacias +41 844551155
 
 ## Définitions
 
