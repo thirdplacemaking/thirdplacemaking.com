@@ -1,11 +1,11 @@
 ---
-title: "Mentions légales"
+title: Mentions légales
 slug: mentions-legales
-description: "Mentions légales de thirdplacemaking.com"
+description: Mentions légales de thirdplacemaking.com
 toc: true
----
 
-Third Place Making désigne une personne morale de droit privé de type entreprise, association ou fondation qui sera prochainement créée en France ou en Suisse. Elle est pour le moment représentée par un groupe de personnes préfigurant sa création. Nous mettrons à jour cette page dès que la structure Third Place Making sera créée.
+---
+Third Place Making désigne une personne morale de droit privé de type fondation qui sera prochainement créée en Suisse. Elle est pour le moment représentée par un groupe de personnes préfigurant sa création. Nous mettrons à jour cette page dès que la structure Third Place Making sera créée.
 
 Les personnes en question sont : Antoine Burret, Émilie Vez, Connie & Benjamin Chow-Petit et Benjamin Gentils. Vous pouvez nous joindre par contact@thirdplacemaking.com.
 
@@ -13,9 +13,9 @@ Thirdplacemaking.com
 Point de contact : Antoine BURRET
 Téléphone : (France) 07-69-17-43-93
 Pour nous contacter : contact@thirdplacemaking.com
-Hébergeur de thirdplacemaking.com : 
+Hébergeur de thirdplacemaking.com :
 INFOMANIAK NETWORK SA. Rue Eugène-Marziano 25. 1227 Les Acacias
-+41 844551155
+\+41 844551155
 
 ## Définitions
 
@@ -33,16 +33,13 @@ Les termes « données à caractère personnel », « personne concernée�
 
 En vertu de l'article 6 de la loi №2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique, il est précisé aux utilisateurs du site internet [https://thirdplacemaking.com](https://thirdplacemaking.com) l'identité des différents intervenants dans le cadre de sa réalisation et de son suivi:
 
-**Propriétaire** :  À venir Entreprise à venir Capital social de À venir Numéro de TVA: À venir – 1, rue du Luizet 69100 VILLEURBANNE
-**Responsable publication** : Émilie Fez – contact@thirdplacemaking.com
-Le responsable publication est une personne physique ou une personne morale.
-**Webmaster** : Timothée Goguely - Oxamyne – timothee@goguely.com
+**Propriétaire** :  À venir Fondation à venir Capital social de À venir Numéro de TVA: À venir – 15 Rue des Savoises, 1205 Genève **Responsable publication** : Émilie Vez – contact@thirdplacemaking.com Le responsable publication est une personne physique ou une personne morale. **Webmaster** : Timothée Goguely - Oxamyne – timothee@goguely.com
 **Hébergeur** : SA INFOMANIAK – Rue Eugène-Marziano 25. 1227 Les Acacias +41 844551155
 **Délégué à la protection des données** : Benjamin Chow-Petit – contact@thirdplacemaking.com
 
 ## 2. Conditions générales d’utilisation du site et des services proposés
 
-Le Site constitue une œuvre de l’esprit protégée par les dispositions du Code de la Propriété Intellectuelle et des Réglementations Internationales applicables. 
+Le Site constitue une œuvre de l’esprit protégée par les dispositions du Code de la Propriété Intellectuelle et des Réglementations Internationales applicables.
 Le Client ne peut en aucune manière réutiliser, céder ou exploiter pour son propre compte tout ou partie des éléments ou travaux du Site
 
 L’utilisation du site [https://thirdplacemaking.com](https://thirdplacemaking.com) implique l’acceptation pleine et entière des conditions générales d’utilisation ci-après décrites. Ces conditions d’utilisation sont susceptibles d’être modifiées ou complétées à tout moment, les utilisateurs du site [https://thirdplacemaking.com](https://thirdplacemaking.com) sont donc invités à les consulter de manière régulière
@@ -90,7 +87,7 @@ Le Client est informé des réglementations concernant la communication marketin
 
 ### 7.1 Responsables de la collecte des données personnelles
 
-Pour les Données Personnelles collectées dans le cadre de la création du compte personnel de l’Utilisateur et de sa navigation sur le Site, le responsable du traitement des Données Personnelles est : Entreprise à venir. [https://thirdplacemaking.com](https://thirdplacemaking.com)est représenté par À venir, son représentant léga
+Pour les Données Personnelles collectées dans le cadre de la création du compte personnel de l’Utilisateur et de sa navigation sur le Site, le responsable du traitement des Données Personnelles est : Third Place Making Foundation (Fondation en création). [https://thirdplacemaking.com](https://thirdplacemaking.com)est représenté par À venir, son représentant légal.
 
 En tant que responsable du traitement des données qu’il collecte, [https://thirdplacemaking.com](https://thirdplacemaking.com) s’engage à respecter le cadre des dispositions légales en vigueur. Il lui appartient notamment au Client d’établir les finalités de ses traitements de données, de fournir à ses prospects et clients, à partir de la collecte de leurs consentements, une information complète sur le traitement de leurs données personnelles et de maintenir un registre des traitements conforme à la réalité.
 Chaque fois que [https://thirdplacemaking.com](https://thirdplacemaking.com) traite des Données Personnelles, [https://thirdplacemaking.com](https://thirdplacemaking.com) prend toutes les mesures raisonnables pour s’assurer de l’exactitude et de la pertinence des Données Personnelles au regard des finalités pour lesquelles [https://thirdplacemaking.com](https://thirdplacemaking.com) les traite
@@ -99,11 +96,11 @@ Chaque fois que [https://thirdplacemaking.com](https://thirdplacemaking.com) tra
 
 [https://thirdplacemaking.com](https://thirdplacemaking.com) est susceptible de traiter tout ou partie des données :
 
-- pour permettre la navigation sur le Site et la gestion et la traçabilité des prestations et services commandés par l’utilisateur : données de connexion et d’utilisation du Site, facturation, historique des commandes, etc.
-- pour prévenir et lutter contre la fraude informatique (spamming, hacking…) : matériel informatique utilisé pour la navigation, l’adresse IP, le mot de passe (hashé)
-- pour améliorer la navigation sur le Site : données de connexion et d’utilisation
-- pour mener des enquêtes de satisfaction facultatives sur [https://thirdplacemaking.com](https://thirdplacemaking.com) : adresse email
-- pour mener des campagnes de communication (sms, mail) : numéro de téléphone, adresse emai
+* pour permettre la navigation sur le Site et la gestion et la traçabilité des prestations et services commandés par l’utilisateur : données de connexion et d’utilisation du Site, facturation, historique des commandes, etc.
+* pour prévenir et lutter contre la fraude informatique (spamming, hacking…) : matériel informatique utilisé pour la navigation, l’adresse IP, le mot de passe (hashé)
+* pour améliorer la navigation sur le Site : données de connexion et d’utilisation
+* pour mener des enquêtes de satisfaction facultatives sur [https://thirdplacemaking.com](https://thirdplacemaking.com) : adresse email
+* pour mener des campagnes de communication (sms, mail) : numéro de téléphone, adresse emai
 
 [https://thirdplacemaking.com](https://thirdplacemaking.com) ne commercialise pas vos données personnelles qui sont donc uniquement utilisées par nécessité ou à des fins statistiques et d’analyses
 
@@ -111,22 +108,20 @@ Chaque fois que [https://thirdplacemaking.com](https://thirdplacemaking.com) tra
 
 Conformément à la réglementation européenne en vigueur, les Utilisateurs de [https://thirdplacemaking.com](https://thirdplacemaking.com) disposent des droits suivants :
 
-- droit d'accès (article 15 RGPD) et de rectification (article 16 RGPD), de mise à jour, de complétude des données des Utilisateurs droit de verrouillage ou d’effacement des données des Utilisateurs à caractère personnel (article 17 du RGPD), lorsqu’elles sont inexactes, incomplètes, équivoques, périmées, ou dont la collecte, l'utilisation, la communication ou la conservation est interdite
-- droit de retirer à tout moment un consentement (article 13-2c RGPD)
-- droit à la limitation du traitement des données des Utilisateurs (article 18 RGPD)
-- droit d’opposition au traitement des données des Utilisateurs (article 21 RGPD)
-- droit à la portabilité des données que les Utilisateurs auront fournies, lorsque ces données font l’objet de traitements automatisés fondés sur leur consentement ou sur un contrat (article 20 RGPD)
-- droit de définir le sort des données des Utilisateurs après leur mort et de choisir à qui [https://thirdplacemaking.com](https://thirdplacemaking.com) devra communiquer (ou non) ses données à un tiers qu’ils aura préalablement désign
+* droit d'accès (article 15 RGPD) et de rectification (article 16 RGPD), de mise à jour, de complétude des données des Utilisateurs droit de verrouillage ou d’effacement des données des Utilisateurs à caractère personnel (article 17 du RGPD), lorsqu’elles sont inexactes, incomplètes, équivoques, périmées, ou dont la collecte, l'utilisation, la communication ou la conservation est interdite
+* droit de retirer à tout moment un consentement (article 13-2c RGPD)
+* droit à la limitation du traitement des données des Utilisateurs (article 18 RGPD)
+* droit d’opposition au traitement des données des Utilisateurs (article 21 RGPD)
+* droit à la portabilité des données que les Utilisateurs auront fournies, lorsque ces données font l’objet de traitements automatisés fondés sur leur consentement ou sur un contrat (article 20 RGPD)
+* droit de définir le sort des données des Utilisateurs après leur mort et de choisir à qui [https://thirdplacemaking.com](https://thirdplacemaking.com) devra communiquer (ou non) ses données à un tiers qu’ils aura préalablement désign
 
 Dès que [https://thirdplacemaking.com](https://thirdplacemaking.com) a connaissance du décès d’un Utilisateur et à défaut d’instructions de sa part, [https://thirdplacemaking.com](https://thirdplacemaking.com) s’engage à détruire ses données, sauf si leur conservation s’avère nécessaire à des fins probatoires ou pour répondre à une obligation légale
 
 Si l’Utilisateur souhaite savoir comment [https://thirdplacemaking.com](https://thirdplacemaking.com) utilise ses Données Personnelles, demander à les rectifier ou s’oppose à leur traitement, l’Utilisateur peut contacter [https://thirdplacemaking.com](https://thirdplacemaking.com) par écrit à l’adresse suivante :
 
-Entreprise à venir – DPO, Benjamin Chow-Petit
-1, rue du Luizet 69100 VILLEURBANNE.
+Third Place Making Foundation (Fondation en création) – Antoine Burrret, 15 Rue des Savoises, 1205 Genève.
 
 Dans ce cas, l’Utilisateur doit indiquer les Données Personnelles qu’il souhaiterait que [https://thirdplacemaking.com](https://thirdplacemaking.com) corrige, mette à jour ou supprime, en s’identifiant précisément avec une copie d’une pièce d’identité (carte d’identité ou passeport).
-
 
 Les demandes de suppression de Données Personnelles seront soumises aux obligations qui sont imposées à [https://thirdplacemaking.com](https://thirdplacemaking.com) par la loi, notamment en matière de conservation ou d’archivage des documents. Enfin, les Utilisateurs de [https://thirdplacemaking.com](https://thirdplacemaking.com) peuvent déposer une réclamation auprès des autorités de contrôle, et notamment de la CNIL (https://www.cnil.fr/fr/plaintes)
 
@@ -144,7 +139,7 @@ Dans la limite de leurs attributions respectives et pour les finalités rappelé
 
 ## 8. Notification d’incident
 
-Quels que soient les efforts fournis, aucune méthode de transmission sur Internet et aucune méthode de stockage électronique n'est complètement sûre. Nous ne pouvons en conséquence pas garantir une sécurité absolue. 
+Quels que soient les efforts fournis, aucune méthode de transmission sur Internet et aucune méthode de stockage électronique n'est complètement sûre. Nous ne pouvons en conséquence pas garantir une sécurité absolue.
 Si nous prenions connaissance d'une brèche de la sécurité, nous avertirions les utilisateurs concernés afin qu'ils puissent prendre les mesures appropriées. Nos procédures de notification d’incident tiennent compte de nos obligations légales, qu'elles se situent au niveau national ou européen. Nous nous engageons à informer pleinement nos clients de toutes les questions relevant de la sécurité de leur compte et à leur fournir toutes les informations nécessaires pour les aider à respecter leurs propres obligations réglementaires en matière de reporting
 
 Aucune information personnelle de l'utilisateur du site [https://thirdplacemaking.com](https://thirdplacemaking.com) n'est publiée à l'insu de l'utilisateur, échangée, transférée, cédée ou vendue sur un support quelconque à des tiers. Seule l'hypothèse du rachat de [https://thirdplacemaking.com](https://thirdplacemaking.com) et de ses droits permettrait la transmission des dites informations à l'éventuel acquéreur qui serait à son tour tenu de la même obligation de conservation et de modification des données vis à vis de l'utilisateur du site [https://thirdplacemaking.com](https://thirdplacemaking.com)
@@ -182,7 +177,7 @@ Ces types de cookies ne sont déposés sur vos terminaux qu’à condition que v
 
 [https://thirdplacemaking.com](https://thirdplacemaking.com) peut employer occasionnellement des balises Internet (également appelées « tags », ou balises d’action, GIF à un pixel, GIF transparents, GIF invisibles et GIF un à un) et les déployer par l’intermédiaire d’un partenaire spécialiste d’analyses Web susceptible de se trouver (et donc de stocker les informations correspondantes, y compris l’adresse IP de l’Utilisateur) dans un pays étranger
 
-Ces balises sont placées à la fois dans les publicités en ligne permettant aux internautes d’accéder au Site, et sur les différentes pages de celui-ci. 
+Ces balises sont placées à la fois dans les publicités en ligne permettant aux internautes d’accéder au Site, et sur les différentes pages de celui-ci.
 
 Cette technologie permet à [https://thirdplacemaking.com](https://thirdplacemaking.com) d’évaluer les réponses des visiteurs face au Site et l’efficacité de ses actions (par exemple, le nombre de fois où une page est ouverte et les informations consultées), ainsi que l’utilisation de ce Site par l’Utilisateur.
 
@@ -190,5 +185,4 @@ Le prestataire externe pourra éventuellement recueillir des informations sur le
 
 ## 10. Droit applicable et attribution de juridiction
 
-Tout litige en relation avec l’utilisation du site [https://thirdplacemaking.com](https://thirdplacemaking.com) est soumis au droit français. 
-En dehors des cas où la loi ne le permet pas, il est fait attribution exclusive de juridiction aux tribunaux compétents de À venir
+Tout litige en relation avec l’utilisation du site [https://thirdplacemaking.com](https://thirdplacemaking.com) est soumis au droit suisse. En dehors des cas où la loi ne le permet pas, il est fait attribution exclusive de juridiction aux tribunaux compétents de À venir

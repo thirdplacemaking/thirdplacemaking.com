@@ -5,17 +5,11 @@ description: thirdplacemaking.com legal notice
 toc: true
 
 ---
-Third Place Making désigne une personne morale de droit privé de type entreprise, association ou fondation qui sera prochainement créée en en Suisse. Elle est pour le moment représentée par un groupe de personnes préfigurant sa création. Nous mettrons à jour cette page dès que la structure Third Place Making sera créée.
+Third Place Making désigne une personne morale de droit privé de type fondation qui sera prochainement créée en en Suisse. Elle est pour le moment représentée par un groupe de personnes préfigurant sa création. Nous mettrons à jour cette page dès que la structure Third Place Making sera créée.
 
 Les personnes en question sont : Antoine Burret, Émilie Vez, Connie & Benjamin Chow-Petit et Benjamin Gentils. Vous pouvez nous joindre par contact@thirdplacemaking.com.
 
-Thirdplacemaking.com
-Point de contact : Antoine BURRET
-Téléphone : (France) 07-69-17-43-93
-Pour nous contacter : contact@thirdplacemaking.com
-Hébergeur de thirdplacemaking.com :
-INFOMANIAK NETWORK SA. Rue Eugène-Marziano 25. 1227 Les Acacias
-\+41 844551155
+Thirdplacemaking.com Point de contact : Antoine BURRET Téléphone : (Suisse) +4122-552-00-99 Pour nous contacter : contact@thirdplacemaking.com Hébergeur de thirdplacemaking.com : INFOMANIAK NETWORK SA. Rue Eugène-Marziano 25. 1227 Les Acacias +41 844551155
 
 ## Définitions
 
@@ -33,8 +27,7 @@ Les termes « données à caractère personnel », « personne concernée�
 
 En vertu de l'article 6 de la loi №2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique, il est précisé aux utilisateurs du site internet [https://thirdplacemaking.com](https://thirdplacemaking.com) l'identité des différents intervenants dans le cadre de sa réalisation et de son suivi:
 
-**Propriétaire** :  À venir Entreprise à venir Capital social de À venir Numéro de TVA: À venir – 1, rue du Luizet 69100 VILLEURBANNE
-**Responsable publication** : Émilie Vez – contact@thirdplacemaking.com Le responsable publication est une personne physique ou une personne morale. **Webmaster** : Timothée Goguely - Oxamyne – timothee@goguely.com
+**Propriétaire** :  À venir Fondation à venir Capital social de À venir Numéro de TVA: À venir – 15 Rue des Savoises, 1205 Genève **Responsable publication** : Émilie Vez – contact@thirdplacemaking.com Le responsable publication est une personne physique ou une personne morale. **Webmaster** : Timothée Goguely - Oxamyne – timothee@goguely.com
 **Hébergeur** : SA INFOMANIAK – Rue Eugène-Marziano 25. 1227 Les Acacias +41 844551155
 **Délégué à la protection des données** : Benjamin Chow-Petit – contact@thirdplacemaking.com
 
@@ -88,7 +81,7 @@ Le Client est informé des réglementations concernant la communication marketin
 
 ### 7.1 Responsables de la collecte des données personnelles
 
-Pour les Données Personnelles collectées dans le cadre de la création du compte personnel de l’Utilisateur et de sa navigation sur le Site, le responsable du traitement des Données Personnelles est : Entreprise à venir. [https://thirdplacemaking.com](https://thirdplacemaking.com)est représenté par À venir, son représentant léga
+Pour les Données Personnelles collectées dans le cadre de la création du compte personnel de l’Utilisateur et de sa navigation sur le Site, le responsable du traitement des Données Personnelles est : Third Place Making Foundation (Fondation en création). [https://thirdplacemaking.com](https://thirdplacemaking.com)est représenté par À venir, son représentant légal
 
 En tant que responsable du traitement des données qu’il collecte, [https://thirdplacemaking.com](https://thirdplacemaking.com) s’engage à respecter le cadre des dispositions légales en vigueur. Il lui appartient notamment au Client d’établir les finalités de ses traitements de données, de fournir à ses prospects et clients, à partir de la collecte de leurs consentements, une information complète sur le traitement de leurs données personnelles et de maintenir un registre des traitements conforme à la réalité.
 Chaque fois que [https://thirdplacemaking.com](https://thirdplacemaking.com) traite des Données Personnelles, [https://thirdplacemaking.com](https://thirdplacemaking.com) prend toutes les mesures raisonnables pour s’assurer de l’exactitude et de la pertinence des Données Personnelles au regard des finalités pour lesquelles [https://thirdplacemaking.com](https://thirdplacemaking.com) les traite
@@ -120,8 +113,7 @@ Dès que [https://thirdplacemaking.com](https://thirdplacemaking.com) a connaiss
 
 Si l’Utilisateur souhaite savoir comment [https://thirdplacemaking.com](https://thirdplacemaking.com) utilise ses Données Personnelles, demander à les rectifier ou s’oppose à leur traitement, l’Utilisateur peut contacter [https://thirdplacemaking.com](https://thirdplacemaking.com) par écrit à l’adresse suivante :
 
-Entreprise à venir – DPO, Benjamin Chow-Petit
-1, rue du Luizet 69100 VILLEURBANNE.
+Third Place Making Foundation (Fondation en création) – Antoine Burrret, 15 Rue des Savoises, 1205 Genève.
 
 Dans ce cas, l’Utilisateur doit indiquer les Données Personnelles qu’il souhaiterait que [https://thirdplacemaking.com](https://thirdplacemaking.com) corrige, mette à jour ou supprime, en s’identifiant précisément avec une copie d’une pièce d’identité (carte d’identité ou passeport).
 
@@ -187,5 +179,4 @@ Le prestataire externe pourra éventuellement recueillir des informations sur le
 
 ## 10. Droit applicable et attribution de juridiction
 
-Tout litige en relation avec l’utilisation du site [https://thirdplacemaking.com](https://thirdplacemaking.com) est soumis au droit français.
-En dehors des cas où la loi ne le permet pas, il est fait attribution exclusive de juridiction aux tribunaux compétents de À venir
+Tout litige en relation avec l’utilisation du site [https://thirdplacemaking.com](https://thirdplacemaking.com) est soumis au droit suisse. En dehors des cas où la loi ne le permet pas, il est fait attribution exclusive de juridiction aux tribunaux compétents de À venir
