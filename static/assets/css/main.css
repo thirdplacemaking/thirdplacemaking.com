@@ -1,4 +1,4 @@
-/*! tailwindcss v2.2.16 | MIT License | https://tailwindcss.com */
+/*! tailwindcss v2.2.19 | MIT License | https://tailwindcss.com */
 
 /*! modern-normalize v1.1.0 | MIT License | https://github.com/sindresorhus/modern-normalize */
 
@@ -455,11 +455,6 @@ textarea {
 }
 
 input::-moz-placeholder, textarea::-moz-placeholder {
-  opacity: 1;
-  color: #a1a1aa;
-}
-
-input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   opacity: 1;
   color: #a1a1aa;
 }
@@ -1342,7 +1337,6 @@ p + p {
   top: -.05em;
   -webkit-user-select: none;
      -moz-user-select: none;
-      -ms-user-select: none;
           user-select: none;
   margin: 0 .5em;
   color: #7F7F7F;
@@ -1807,7 +1801,6 @@ main {
   }
 
   .md\:sticky {
-    position: -webkit-sticky;
     position: sticky;
   }
 
