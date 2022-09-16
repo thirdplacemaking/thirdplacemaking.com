@@ -74,7 +74,7 @@
         </ul>
       </div>
       <div class="flex space-x-6 text-xs font-medium uppercase tracking-widest border-t-2 border-gray-9 py-8">
-        <p>&copy; {{ now.Format "2006" }} {{ .Site.Title }}</p>
+        <p> {{ now.Format "2006" }} Except where otherwise noted, content on this site is licensed under a Creative Commons Attribution 4.0 International license {{ .Site.Title }}</p>
         <ul class="flex space-x-6">
           {{- range .Site.Menus.footer }}
           <li class="{{if or ($currentPage.IsMenuCurrent "footer" .) ($currentPage.HasMenuCurrent "footer" .) }}active{{ end }}">
