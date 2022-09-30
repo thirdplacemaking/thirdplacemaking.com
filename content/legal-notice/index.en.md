@@ -7,8 +7,6 @@ toc: true
 ---
 Third Place Making désigne une personne morale de droit privé de type fondation qui sera prochainement créée en en Suisse. Elle est pour le moment représentée par un groupe de personnes préfigurant sa création. Nous mettrons à jour cette page dès que la structure Third Place Making sera créée.
 
-Les personnes en question sont : Antoine Burret, Émilie Vez, Connie & Benjamin Chow-Petit et Benjamin Gentils. Vous pouvez nous joindre par contact@thirdplacemaking.com.
-
 thirdplacemaking.com Point de contact : Antoine BURRET Téléphone : (Suisse) +4122-552-00-99 Pour nous contacter : contact@thirdplacemaking.com Hébergeur de thirdplacemaking.com : INFOMANIAK NETWORK SA. Rue Eugène-Marziano 25. 1227 Les Acacias +41 844551155
 
 ## Définitions
